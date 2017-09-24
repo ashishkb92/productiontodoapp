@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Setup server",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "task": "Start Server",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "task": "Connect to server",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "task": "Setup fetch",
+      "isComplete": false
+    },
+    {
+      "task": "Learn JSX",
+      "isComplete": false,
+      "id": 9247
+    }
+  ]
+}
